@@ -7,7 +7,7 @@
 
 module.exports = class YourPlugin {
     start() {
-      var namesToDetect = [`qt`, `wi'`, `satin`];
+      var namesToDetect = [`Username1`, `Username2`, `Username3`];
 
       var elements = document.getElementsByClassName('usernameFont__71dd5');
   
