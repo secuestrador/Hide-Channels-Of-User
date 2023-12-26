@@ -4,7 +4,8 @@ A BetterDiscord plugin used to hide voice channels where a blacklisted username 
 
 ## Usage
 
-Go to the /BetterDiscord/plugins folder and paste the "hideUserChannels.plugin.js" file into it.
+Go to the `/BetterDiscord/plugins` folder and paste the `"hideUserChannels.plugin.js"` file into it.
+To change the BlackListed users go to the 10th line and change/remove/add usernames from the array `namesToDetect` as you like.
 
 ## Preview
 
