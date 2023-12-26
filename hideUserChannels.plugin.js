@@ -6,7 +6,7 @@
  */
 
 module.exports = class YourPlugin {
-    start() {// Definir la función que contiene tu código
+    start() {
 function executeCode() {
     var namesToDetect = [`Username1`, `Username2`, `Username3`];
     var elements = document.getElementsByClassName('usernameFont__71dd5');
